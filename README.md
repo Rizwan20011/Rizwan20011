@@ -1,21 +1,22 @@
-<h1 align="center">Hi 👋, I'm Rizwan Chaudhary</h1>
-<h3 align="center">🚀 Certified Cloud & DevOps Engineer | Automating scalable cloud infrastructures with Terraform, Docker, Kubernetes & CI/CD pipelines.</h3>
+<h1 align="center">Hey Everyone 👋, I'm Rizwan Chaudhary</h1>
+
+<div align="center">
+  <img src="https://github.com/Rizwan20011/Rizwan20011/blob/main/Beige%20Modern%20Professional%20General%20Linkedin%20Banner.png?raw=true" alt="Rizwan Chaudhary Banner">
+</div>
+
+<h3 align="center"> Cloud & DevOps Engineer from India | Automating scalable cloud infrastructures with Terraform, Docker, Kubernetes & CI/CD pipelines.</h3>
 
 - 🔭 I’m currently working on **Multiple Projects**
-
 - 🌱 I’m currently learning **AI/ML**
-
 - 👯 I’m looking to collaborate on **New Projects**
-
 - 🤝 I’m looking for help with **DevOps**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Rizwan20011](https://github.com/Rizwan20011)
-
 - 💬 Ask me about **Cloud & DevOps**
-
 - 📫 How to reach me **rizwanchaudhary507@gmail.com**
-
 - ⚡ Fun fact **Practice multiple project**
+<div align="center">
+  <img src="https://github.com/Rizwan20011/Rizwan20011/blob/main/Github%20Profile.gif?raw=true" alt="Rizwan20011 Banner" width="100%">
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
