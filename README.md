@@ -15,7 +15,9 @@
 - 📫 How to reach me **rizwanchaudhary507@gmail.com**
 - ⚡ Fun fact **Practice multiple project**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizwan20011&" alt="rizwan20011" /></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rizwan20011&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
   
 <div align="center">
   <img src="https://github.com/Rizwan20011/Rizwan20011/blob/main/Github%20Profile.gif?raw=true" alt="Rizwan20011 Banner" width="100%">
