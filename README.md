@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rizwan Chaudhary</h1>
 <h3 align="center">🚀 Certified Cloud & DevOps Engineer | Automating scalable cloud infrastructures with Terraform, Docker, Kubernetes & CI/CD pipelines.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizwan20011" alt="rizwan20011" /></a> </p>
-
 - 🔭 I’m currently working on **Multiple Projects**
 
 - 🌱 I’m currently learning **AI/ML**
